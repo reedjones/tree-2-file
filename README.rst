@@ -24,20 +24,19 @@ This project provides a tool for generating directories and files from a given s
 
 ## Installation
 
-1. 
-Install with pip: 
+1. Install with pip:
 
-   ```bash
-  pip install tree-2-file
-  ````
+```bash
+pip install tree-2-file
+````
 
 2. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/directory-generator.git
-   cd directory-generator
-   pip install -r requirements.txt
-   ```
+```bash
+git clone https://github.com/yourusername/directory-generator.git
+cd directory-generator
+pip install -r requirements.txt
+```
 
 
 
@@ -51,7 +50,7 @@ Features
 Features
 ========
 
-- **Directory Structure Parsing**: 
+- **Directory Structure Parsing**:
   - Parse and process directory structures from various sources including:
     - Files
     - Text input
@@ -70,7 +69,7 @@ Features
     - Columns for side-by-side content display.
     - Colored and stylized text for better readability.
     - Themed console output for various log levels (info, warning, danger).
-  
+
 - **Interactive CLI**:
   - Fully interactive CLI interface allowing the user to choose how to read directory structure:
     - From a file.
@@ -78,7 +77,7 @@ Features
     - From clipboard content.
     - Format the structure as markdown.
   - User-friendly menu and prompt-based navigation.
-  
+
 - **Clipboard Support**:
   - Ability to parse directory structures directly from the clipboard, making it easy to work with copied content.
 
