@@ -26,15 +26,17 @@ This project provides a tool for generating directories and files from a given s
 
 1. Install with pip:
 
-```bash
-pip install tree-2-file```
+```
+pip install tree-2-file
+```
 
 2. Clone the repository:
 
-```bash
+```
 git clone https://github.com/yourusername/directory-generator.git
 cd directory-generator
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 
 
